@@ -12,10 +12,10 @@
 
 ### Project tree
 
-    .
+    
     ├── index.html
     ├── css - styles.css 
-    ├── js- app.js
+    ├── js - app.js
     ├── README
 
 
