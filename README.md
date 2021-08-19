@@ -1,6 +1,8 @@
 # Landing Page Project
 
-## 2nd Project Udacity Front-End Development Nanodegre
+## 2nd Project Udacity Front-End Development Nanodegre using:
+  
+   HTML  CSS JavaScript
 
 ## Project features:
 
